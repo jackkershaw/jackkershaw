@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jack and I'm currently working on an application for Founders and Coders :) 
+I'm Jack, a graphic designer and aspiring web developer. 
+- I'm currently working on an application for Founders and Coders :) 
