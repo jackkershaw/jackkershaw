@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 I'm Jack, a graphic designer and aspiring web developer. 
 - I'm currently working on an application for Founders and Coders.
 - I'm currently learning HTML, CSS and Javascript. You can follow my progress [here](https://github.com/jones58/My-Coding-Progress/blob/main/Coding%20journey%20so%20far.md). 
-- Also learning to code? You can find my favourite resources listed [here](https://github.com/jones58/Learning-Resources). 
+- Also learning to code? I've put some of my favourite resources [here](https://github.com/jones58/Learning-Resources). 
 - You can see the apps I like using [here](https://github.com/jones58/My-Setup/blob/main/Mac%20apps.md). 
-- Ask me about fonts and graphic design fundamentals. 💫
 - Pronouns: He/Him
