@@ -20,4 +20,5 @@ I'm Jack, a graphic designer and aspiring web developer.
 - I'm currently learning HTML, CSS and Javascript. You can follow my progress [here](https://github.com/jones58/My-Coding-Progress/blob/main/Coding%20journey%20so%20far.md). 
 - You can see the apps I like using [here](https://github.com/jones58/My-Setup/blob/main/Mac%20apps.md). 
 - Ask me about fonts and graphic design fundamentals 💫.
+- Also learning to code? You can find my favourite resources listed [here](https://github.com/jones58/Learning-Resources). 
 - Pronouns: He/Him
