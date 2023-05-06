@@ -24,4 +24,4 @@ I'm Jack, a graphic designer and aspiring web developer.
 - Pronouns: He/Him
 - 
 
-![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jones58&hide=stars)
+![Jones58's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jones58&hide=stars)
