@@ -21,3 +21,5 @@ I'm Jack, a graphic designer and aspiring web developer.
 - Also learning to code? I've put some of my favourite resources [here](https://github.com/jones58/Learning-Resources). 
 - You can see the apps I like using [here](https://github.com/jones58/My-Setup/blob/main/Mac%20apps.md). 
 - Pronouns: He/Him
+
+https://github-readme-stats.vercel.app/api?username=jones58&hide=stars
