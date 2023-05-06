@@ -22,4 +22,4 @@ I'm Jack, a graphic designer and aspiring web developer.
 - You can see the apps I like using [here](https://github.com/jones58/My-Setup/blob/main/Mac%20apps.md). 
 - Pronouns: He/Him
 
-[![Jack's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=jones58&hide=stars)
+![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jones58&hide=stars)
