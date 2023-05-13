@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jack, a graphic designer and aspiring web developer. 
+I'm Jack, a graphic designer, video editor and aspiring web developer. 
 - I'm currently working on an application for Founders and Coders.
 - For now I'm learning HTML, CSS and Javascript. 
   - You can follow my progress [here](https://github.com/jones58/My-Coding-Progress/blob/main/Coding%20journey%20so%20far.md). 
