@@ -4,7 +4,7 @@ I'm Jack (he/him), a graphic designer, video editor and aspiring web developer.
 
 - I'm currently working on an application for Founders and Coders.
 - For now I'm learning HTML, CSS and Javascript. 
-  - You can follow my progress [here](https://github.com/jones58/My-Coding-Progress/blob/main/Coding%20journey%20so%20far.md). 
+  - You can follow my progress [here](https://github.com/jones58/my-coding-progress/). 
   - I've put some of my favourite learning resources [here](https://github.com/jones58/Learning-Resources). 
   - You can see the apps I like using [here](https://github.com/jones58/My-Setup/blob/main/Mac%20apps.md).
   - Certifications:
