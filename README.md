@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Jack (he/him), a graphic designer, video editor and aspiring web developer. 
+I'm Jack (he/him), a graphic designer and aspiring web developer. 
 
 - I'm learning HTML, CSS and Javascript. 
   - You can follow my progress [here](https://github.com/jones58/my-coding-progress/). 
