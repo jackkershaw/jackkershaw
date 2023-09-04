@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-I'm Jack (he/him), a graphic designer and aspiring web developer. 
+I'm Jack (he/him), a graphic designer and aspiring software developer. 
 
-- I'm learning HTML, CSS and Javascript. 
+- I'm learning HTML, CSS, Python and Javascript. 
   - You can follow my progress [here](https://github.com/jones58/my-coding-progress/). 
   - I've put some of my favourite learning resources [here](https://github.com/jones58/Learning-Resources). 
   - You can see the apps I like using [here](https://github.com/jones58/My-Setup/blob/main/Mac%20apps.md).
