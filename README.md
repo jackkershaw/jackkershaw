@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi! 👋 
 
 I'm Jack (he/him), a graphic designer and aspiring software developer. 
 
