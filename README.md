@@ -1,5 +1,3 @@
-### Hi! 👋 
-
 I'm Jack (he/him), a graphic designer and aspiring software developer. 
 
 - I'm learning full-stack developement with Just IT.
