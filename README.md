@@ -1,7 +1,7 @@
 I'm Jack (he/him), a graphic designer and aspiring software developer. 
 
 - I'm learning full-stack development with Just IT.
-  - You can follow my progress [here](progress.jackkershaw.net). 
+  - You can follow my progress [here](https://progress.jackkershaw.net). 
   - I've put some of my favourite learning resources [here](https://github.com/jones58/Learning-Resources). 
   - You can see the apps I like using [here](https://github.com/jones58/My-Setup/blob/main/Mac%20apps.md).
   - Certifications:
