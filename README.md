@@ -1,5 +1,5 @@
 ### Hi, I'm Jack 
-**I'm a designer and developer in London, UK.**
+**I'm a developer and designer in London, UK.**
 - Always learning more about **full-stack development and design**
 - I've built:
   - [London Brutalist Map](https://github.com/jones58/brutalist-map)
