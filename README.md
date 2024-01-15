@@ -3,7 +3,7 @@
 - Always learning more about **full-stack development and design**
 - I've built:
   - [London Brutalist Map](https://github.com/jones58/brutalist-map)
-  - [Typesotting](https://github.com/jones58/typespotting)
+  - [Typespotting](https://github.com/jones58/typespotting)
   - [Daily Challenges](https://github.com/jones58/daily-challenges)
   - [All About Cooper Black](https://github.com/jones58/Cooper-Black-Info-Site)
 - I've completed:
