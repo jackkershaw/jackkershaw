@@ -5,7 +5,6 @@
   - [London Brutalist Map](https://github.com/jones58/brutalist-map)
   - [Typespotting](https://github.com/jones58/typespotting)
   - [Daily Challenges](https://github.com/jones58/daily-challenges)
-  - [All About Cooper Black](https://github.com/jones58/Cooper-Black-Info-Site)
 - I've completed:
     - [Responsive Web Design](https://www.freecodecamp.org/certification/jones58/responsive-web-design)
     - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/jones58/javascript-algorithms-and-data-structures)
