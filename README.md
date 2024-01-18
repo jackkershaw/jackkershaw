@@ -1,6 +1,6 @@
 ### Hi, I'm Jack 
 **I'm a developer and designer in London, UK.**
-- Always learning more about **front-end development and design**
+- Always learning more about **front-end development and design.**
 - I've built:
   - [London Brutalist Map](https://github.com/jones58/brutalist-map)
   - [Typespotting](https://github.com/jones58/typespotting)
