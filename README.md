@@ -3,7 +3,7 @@
 - Always learning more about **front-end development and design.**
 - I've built:
   - [London Brutalist Map](https://github.com/jones58/brutalist-map)
-  - [Typespotting](https://github.com/jones58/typespotting)
+  - [Jobseeker](https://jobseeker.jackkershaw.net/)
   - [Daily Challenges](https://github.com/jones58/daily-challenges)
 - I've completed:
     - [Responsive Web Design](https://www.freecodecamp.org/certification/jones58/responsive-web-design)
