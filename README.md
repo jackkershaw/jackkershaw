@@ -1,5 +1,5 @@
 ### Hi, I'm Jack 
-**I am a developer and designer who has experience in graphic design and client-focussed work. **
+** I am a developer and designer who has experience in graphic design and client-focussed work. **
 - I have spent the past two years teaching myself the fundamentals of software development.
 - Always learning more about **front-end development and design.**
 - I've built:
