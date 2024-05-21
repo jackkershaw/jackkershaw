@@ -3,6 +3,7 @@
 - I have spent the past two years learning the fundamentals of software development.
 - Always learning more about **front-end development and design.**
 - I've built:
+  - [Vital Signs](https://vitalsignsmag.org)
   - [London Brutalist Map](https://github.com/jones58/brutalist-map-2)
   - [Jobseeker](https://jobseeker.jackkershaw.net/)
   - [Daily Challenges](https://github.com/jones58/daily-challenges)
