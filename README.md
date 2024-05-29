@@ -2,7 +2,7 @@
 **I am a developer and designer who has experience in graphic design and client-focussed work 🖌️**
 - Check out [my website](https://jackkershaw.net) to learn more about me.
 - Take a look through [**my learning resources**](https://github.com/jones58/Learning-Resources) or see [**my progress**](https://progress.jackkershaw.net) to see how I learn. 
-- 👷‍♂️ I've built:
+- 👷‍♂️ Some projects I've built:
   - [Vital Signs](https://vitalsignsmag.org)
   - [London Brutalist Map](https://github.com/jones58/brutalist-map-2)
   - [Jobseeker](https://jobseeker.jackkershaw.net/)
