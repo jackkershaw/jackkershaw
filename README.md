@@ -19,7 +19,7 @@
   - **Design:** `Figma` `Adobe Creative Suite` `Final Cut Pro` 
   - **Further Technical Skills:** `Linux` `Docker` 
 - 🌠 Fun fact about me: 
-  - My initials spell my name 
+  - My initials spell my name 😎
 - 📮 Contact me
   - Send me [**an email**](mailto:jackkershaw@protonmail.com")
   - Find me on [**LinkedIn**](https://www.linkedin.com/in/jackkershaw)
