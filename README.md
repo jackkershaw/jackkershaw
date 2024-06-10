@@ -3,9 +3,10 @@
 - Check out [my website](https://jackkershaw.net) to learn more about me.
 - Take a look through [**my learning resources**](https://github.com/jones58/Learning-Resources) or see [**my progress**](https://progress.jackkershaw.net) to see how I learn. 
 - 👷‍♂️ Some projects I've built:
-  - [Vital Signs](https://vitalsignsmag.org)
+  - [Right to the City](https://github.com/jones58/right-to-city)
+  - [Vital Signs](https://github.com/jones58/vital-signs)
   - [London Brutalist Map](https://github.com/jones58/brutalist-map-2)
-  - [Jobseeker](https://jobseeker.jackkershaw.net/)
+  - [Jobseeker](https://github.com/jones58/jobseeker)
   - [Daily Challenges](https://github.com/jones58/daily-challenges)
 - ✅ I've completed:
     - [Responsive Web Design](https://www.freecodecamp.org/certification/jones58/responsive-web-design)
