@@ -11,11 +11,12 @@
   - [Daily Challenges](https://github.com/jones58/daily-challenges)
 
 - 🧰 My Toolbox:
-  - **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `HTML` `CSS` `JavaScript` `Node` `FastHTML` `Storybook`
-  - **Version Control:** `Git` `GitHub` 
-  - **Backend Development:** `GraphQL` `MySql` `Python`
+  - **Frameworks:** `React` `Next.js` `Astro` `FastHTML`
+  - **Frontend Development:** `TypeScript` `Tailwind` `SASS` `Styled Components` `HTML` `CSS` `JavaScript` `Node` `Storybook`
+  - **Dev Ops:** `Git` `GitHub` `CI/CD with Vercel and Netlify`
+  - **Backend Development:** `GraphQL` `MySql` `Python` `Apollo Client` `Postman`
   - **Design:** `Figma` `Adobe Creative Suite` `Final Cut Pro` 
-  - **Further Technical Skills:** `Linux` `Docker` 
+  - **Further Technical Skills:** `Linux` `Docker` `Squarespace` `Wordpress` `BigCartel`
 - ✅ I've completed:
     - [Responsive Web Design](https://www.freecodecamp.org/certification/jones58/responsive-web-design)
     - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/jones58/javascript-algorithms-and-data-structures)
