@@ -11,7 +11,7 @@
   - [Daily Challenges](https://github.com/jones58/daily-challenges)
 
 - 🧰 My Toolbox:
-  - **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `HTML` `CSS` `JavaScript` `Node` `Framer-Motion` `FastHTML` `Storybook`
+  - **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `HTML` `CSS` `JavaScript` `Node` `FastHTML` `Storybook`
   - **Version Control:** `Git` `GitHub` 
   - **Backend Development:** `GraphQL` `MySql` `Python`
   - **Design:** `Figma` `Adobe Creative Suite` `Final Cut Pro` 
