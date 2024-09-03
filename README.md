@@ -1,5 +1,5 @@
 ### Hi, I'm Jack ✋
-**I am a graduate and frontend developer with a strong passion for creating beautiful and functional products that enhance user experience. My proactive and organised approach to work drives me to constantly build new projects and learn new skills and technologies. 🖌️**
+**I am a graduate and frontend developer with a strong passion for creating beautiful and functional products that enhance user experience. My proactive and organised approach to work drives me to build new projects and learn new skills and technologies. 🖌️**
 - Check out [my website](https://jackkershaw.net) to learn more about me.
 - Take a look through [**my learning resources**](https://github.com/jones58/Learning-Resources) or see [**my progress**](https://progress.jackkershaw.net) to see how I learn. 
 - 👷‍♂️ Some projects I've built:
