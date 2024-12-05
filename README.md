@@ -1,5 +1,5 @@
 ### Hi, I'm Jack ✋
-- I'm a graduate and frontend developer based in London
+- I'm a graduate and frontend developer based in London. 
 - Check out [my website](https://jackkershaw.net) to learn more about me.
 - Take a look through [**my learning resources**](https://github.com/jones58/Learning-Resources) or see [**my progress**](https://progress.jackkershaw.net) to see how I learn. 
 - 👷‍♂️ Some projects I've built:
