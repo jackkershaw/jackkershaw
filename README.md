@@ -5,7 +5,6 @@ Please feel free to check out my work here, or visit my portfolio. You can also 
 - Take a look through [**my learning resources**](https://github.com/jones58/Learning-Resources) or see [**my progress**](https://progress.jackkershaw.net) to see how I learn. 
 - 👷‍♂️ Some projects I've built:
   - [London Brutalist Map](https://github.com/jones58/brutalist-map-2)
-  - [Pluto](https://github.com/PlutoPowerClub/Website)
   - [Fare Free London](https://github.com/jones58/fare-free-london)
   - [Right to the City](https://github.com/jones58/right-to-city)
   - [Vital Signs](https://github.com/jones58/vital-signs)
@@ -22,6 +21,9 @@ Please feel free to check out my work here, or visit my portfolio. You can also 
     - [Responsive Web Design](https://www.freecodecamp.org/certification/jones58/responsive-web-design)
     - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/jones58/javascript-algorithms-and-data-structures)
     - A twelve-week, highly-selective full-stack course specialising in HTML, CSS, Javascript, Python and MySQL.
+- 🚀 Currently working on: 🚀
+    -  Learning Redux
+    -  Building [Pluto](https://github.com/PlutoPowerClub/Website), an open-source energy dashboard, as part of my work at Octopus Energy. 
 - 🌠 Fun fact about me: 
   - My initials spell my name 😎
 - 📮 Contact me
