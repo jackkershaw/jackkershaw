@@ -7,7 +7,6 @@
   - [Fare Free London](https://github.com/jackkershaw/fare-free-london)
   - [Right to the City](https://github.com/jackkershaw/right-to-city)
   - [Vital Signs](https://github.com/jackkershaw/vital-signs)
-  - [Frontend Jobs Board](https://github.com/jackkershaw/jobseeker)
   - [Daily Challenges](https://github.com/jackkershaw/daily-challenges)
 - 🧰 My Toolbox:
   - **Frameworks:** `React` `Next.js` `Astro` `FastHTML`
