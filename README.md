@@ -1,14 +1,14 @@
 ### Hi, I'm Jack ✋
 - I'm a graduate and frontend developer based in London. 
 - Check out [my website](https://jackkershaw.net) to learn more about me.
-- Take a look through [**my learning resources**](https://github.com/jones58/Learning-Resources) or see [**my progress**](https://progress.jackkershaw.net) to see how I learn. 
+- Take a look through [**my learning resources**](https://github.com/jackkershaw/Learning-Resources) or see [**my progress**](https://progress.jackkershaw.net) to see how I learn. 
 - 👷‍♂️ Some projects I've built:
-  - [London Brutalist Map](https://github.com/jones58/brutalist-map-2)
-  - [Fare Free London](https://github.com/jones58/fare-free-london)
-  - [Right to the City](https://github.com/jones58/right-to-city)
-  - [Vital Signs](https://github.com/jones58/vital-signs)
-  - [Frontend Jobs Board](https://github.com/jones58/jobseeker)
-  - [Daily Challenges](https://github.com/jones58/daily-challenges)
+  - [London Brutalist Map](https://github.com/jackkershaw/brutalist-map-2)
+  - [Fare Free London](https://github.com/jackkershaw/fare-free-london)
+  - [Right to the City](https://github.com/jackkershaw/right-to-city)
+  - [Vital Signs](https://github.com/jackkershaw/vital-signs)
+  - [Frontend Jobs Board](https://github.com/jackkershaw/jobseeker)
+  - [Daily Challenges](https://github.com/jackkershaw/daily-challenges)
 - 🧰 My Toolbox:
   - **Frameworks:** `React` `Next.js` `Astro` `FastHTML`
   - **Frontend Development:** `TypeScript` `Tailwind` `SASS` `Styled Components` `HTML` `CSS` `JavaScript` `Node` `Storybook`
@@ -25,6 +25,6 @@
 - 🌠 Fun fact about me: 
   - My initials spell my name 😎
 - 📮 Contact me
-  - Send me [**an email**](mailto:jackkershaw@protonmail.com")
+  - Send me [**an email**](mailto:hello@jackkershaw.net)
   - Find me on [**LinkedIn**](https://www.linkedin.com/in/jackkershaw)
 
