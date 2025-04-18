@@ -20,7 +20,7 @@
     - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/jones58/javascript-algorithms-and-data-structures)
     - A twelve-week, highly-selective full-stack course specialising in HTML, CSS, Javascript, Python and MySQL.
 - 🚀 Currently working on: 🚀
-    -  Building [Pluto](https://github.com/PlutoPowerClub/Website), an open-source energy dashboard, as part of my work at Octopus Energy. 
+    -  Building [Pluto](https://github.com/PlutoPowerClub/Website) - an open-source energy dashboard, as part of my work at Octopus Energy. 
 - 🌠 Fun fact about me: 
   - My initials spell my name 😎
 - 📮 Contact me
