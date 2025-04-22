@@ -1,7 +1,7 @@
 ### Hi, I'm Jack ✋
 - I'm a graduate and frontend developer based in London. 
 - Check out [my website](https://jackkershaw.net) to learn more about me.
-- Take a look through [**my learning resources**](https://github.com/jackkershaw/Learning-Resources) or see [**my progress**](https://progress.jackkershaw.net) to see how I learn. 
+- Take a look through [**my knowledge wiki**](https://knowledgewiki.jackkershaw.net/) or see [**my progress**](https://progress.jackkershaw.net) to see how I learn. 
 - 👷‍♂️ Some projects I've built:
   - [London Brutalist Map](https://github.com/jackkershaw/brutalist-map-2)
   - [Fare Free London](https://github.com/jackkershaw/fare-free-london)
