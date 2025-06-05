@@ -9,7 +9,7 @@
   - [Vital Signs](https://github.com/jackkershaw/vital-signs)
   - [Daily Challenges](https://github.com/jackkershaw/daily-challenges)
 - 🧰 My Toolbox:
-  - **Frameworks:** `React` `Next.js` `Astro` `FastHTML`
+  - **Frameworks:** `React` `Next.js` `Astro` 
   - **Frontend Development:** `TypeScript` `Tailwind` `SASS` `Styled Components` `HTML` `CSS` `JavaScript` `Node` `Storybook`
   - **Dev Ops:** `Git` `GitHub` `CI/CD with Vercel and Netlify`
   - **Backend Development:** `GraphQL` `MySQL` `Python` `Apollo Client` `Postman`
