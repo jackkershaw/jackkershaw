@@ -3,7 +3,7 @@
 - Check out [my website](https://jackkershaw.net) to learn more about me.
 - Take a look through [**my knowledge wiki**](https://knowledgewiki.jackkershaw.net/) or see [**my progress**](https://progress.jackkershaw.net) to see how I learn. 
 - 👷‍♂️ Some projects I've built:
-  - [London Brutalist Map](https://github.com/jackkershaw/brutalist-map-2)
+  - [London Brutalist Map](https://github.com/jackkershaw/LondonBrutalistMap)
   - [Fare Free London](https://github.com/jackkershaw/fare-free-london)
   - [Right to the City](https://github.com/jackkershaw/right-to-city)
   - [Vital Signs](https://github.com/jackkershaw/vital-signs)
